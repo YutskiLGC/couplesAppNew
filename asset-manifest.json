@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/couplesAppNew/static/css/main.e6c13ad2.css",
+    "main.js": "/couplesAppNew/static/js/main.c92d8601.js",
+    "static/js/257.4e30a806.chunk.js": "/couplesAppNew/static/js/257.4e30a806.chunk.js",
+    "static/js/453.ed3810f9.chunk.js": "/couplesAppNew/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/couplesAppNew/index.html",
+    "main.e6c13ad2.css.map": "/couplesAppNew/static/css/main.e6c13ad2.css.map",
+    "main.c92d8601.js.map": "/couplesAppNew/static/js/main.c92d8601.js.map",
+    "257.4e30a806.chunk.js.map": "/couplesAppNew/static/js/257.4e30a806.chunk.js.map",
+    "453.ed3810f9.chunk.js.map": "/couplesAppNew/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c92d8601.js"
+  ]
+}
